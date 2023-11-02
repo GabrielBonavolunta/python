@@ -23,4 +23,3 @@ def e_string(param):
 inverte_string_checando_parametro = criar_funcao(inverte_string)
 invertida = inverte_string("Luiz")
 print(invertida)
-print(inverte_string_checando_parametro)
